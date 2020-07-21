@@ -13,4 +13,4 @@
  2. RUN PHASE 3.
  
  ### *More features coming soon ...*
- Follow for update : [Twitter](https://twitter.com/pravindesai_)
+ Follow for update : [Twitter](https://twitter.com/pravindesai__)
